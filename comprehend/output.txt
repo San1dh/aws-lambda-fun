@@ -1,0 +1,53 @@
+---------------------------------------------------
+Text:    I live in a house near the mountains. 
+I have two brothers and one sister, and I was born last. 
+My father teaches mathematics, and my mother is a nurse at a big hospital. 
+My brothers are very smart and work hard in school. 
+My sister is a nervous girl, but she is very kind. 
+My grandmother also lives with us. 
+She came from Italy when I was two years old. 
+She has grown old, but she is still very strong. 
+She cooks the best food!
+My family is very important to me. 
+We do lots of things together. 
+My brothers and I like to go on long walks in the mountains. 
+My sister likes to cook with my grandmother. 
+On the weekends we all play board games together. 
+We laugh and always have a good time. 
+I love my family very much.   
+
+DominantLanguage: 
+English
+99.88
+
+KeyPhrases: 
+1              a house                100.0
+2        the mountains                100.0
+3         two brothers                99.99
+4           one sister                99.89
+5            My father                100.0
+6          mathematics                99.97
+7            my mother                100.0
+8              a nurse                99.99
+9       a big hospital                100.0
+10          My brothers                100.0
+11               school                100.0
+12            My sister                100.0
+13       a nervous girl                100.0
+14       My grandmother                100.0
+15                Italy                100.0
+16            two years                99.97
+17        the best food                99.99
+18            My family                99.85
+19                 lots                99.99
+20               things                99.99
+21          My brothers                99.97
+22           long walks                99.03
+23        the mountains                100.0
+24            My sister                100.0
+25       my grandmother                100.0
+26         the weekends                99.97
+27          board games                99.81
+28          a good time                100.0
+29            my family                100.0
+---------------------------------------------------
